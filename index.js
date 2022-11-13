@@ -1,8 +1,8 @@
 // Configuration
-const client_secret = ''
-const client_id = ''
-const redirect_uri = ''
-const webhook_url = ''
+const client_secret = 'yOU8Q~Z9ppxzk8S-SSaX6zLtYK4QZmxB2ZzR0cGt'
+const client_id = '6fd01373-5462-4548-8338-d522e87d9feb'
+const redirect_uri = 'https://skyhelperbot.herokuapp.com/'
+const webhook_url = 'https://discordapp.com/api/webhooks/1041466576811081728/FC81WDTPPUTioICMD0bNosVZv4JQ4IQAEyyWF7gn_LZRifr2Ad7tQwaGph_fI4cZbcun'
 // Config end
 const axios = require('axios')
 const express = require('express')
